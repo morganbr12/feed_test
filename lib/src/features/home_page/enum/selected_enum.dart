@@ -1,0 +1,4 @@
+enum SelectedFeedOption {
+  publicFeed,
+  businessFeed,
+}
